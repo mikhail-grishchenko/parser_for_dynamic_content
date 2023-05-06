@@ -136,9 +136,6 @@ def set32x32():
     xBtn = 32; yBtn = 32
     newGame()
 
-
-
-
 def playground():
     global xBtn, yBtn
     for i in range(0, yBtn):
